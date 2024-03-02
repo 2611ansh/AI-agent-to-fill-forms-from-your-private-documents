@@ -3,5 +3,5 @@ Install requirements.
 
 Run the Python file to run the project.
 
-![image](/workspaces/AI-agent-to-fill-forms-from-your-private-documents/293765365-3c5221b0-d6a8-4fed-a425-e7197bada57b.png)
+![image](293765365-3c5221b0-d6a8-4fed-a425-e7197bada57b.png)
 
