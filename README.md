@@ -3,5 +3,5 @@ Install requirements.
 
 Run the Python file to run the project.
 
-![image](https://github.com/ibm-developer-skills-network/smbqd-AI-Form-Filler/assets/121966646/3c5221b0-d6a8-4fed-a425-e7197bada57b)
+![image](/workspaces/AI-agent-to-fill-forms-from-your-private-documents/293765365-3c5221b0-d6a8-4fed-a425-e7197bada57b.png)
 
